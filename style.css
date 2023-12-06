@@ -1,33 +1,32 @@
 .cabeçalho{background-color: gray;
-    padding: 20px;
-}
+padding: 20px;}
 
-.caixa{position: relative;width: 940px; margin: 0 auto;}
 
-nav{position: absolute; top: 50px;right: 0;}
+.caixa{position: relative;
+width: 940px;
+margin: 0 auto;}
 
-nav li{display: inline;margin: 0 0 0 15px;}
+
+nav{position: absolute;
+top: 50px;
+right: 0;}
+
+
+nav li{display: inline;
+margin: 0 0 0 15px;}
 
 nav a{text-transform: uppercase;
-    color: black;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;}
+color: black;
+font-weight: bold;
+font-size: 22px;
+text-decoration: none;}
 
-.produtos{width: 940px; margin: 0 auto;}
+.produtos{ width: 940px;
+margin: 0 auto;}
 
 .produtos li{
-    display: inline-block;
-    text-align: center;    
-    width: 30%;   
-    vertical-align: top;}
-   
- .produtos h2{ 
-    font-size: 30px;
-    font-weight: bold;} 
 
-.descrição{ font-size: 18px;} 
-
-.preço{
-    font-size: 22px;
-    font-weight: bold;}
+      display: inline-block;
+      text-align: center;
+      width: 30%;
+      vertical-align: top;}
